@@ -1,0 +1,54 @@
+body {
+	background-color: #E6E6E6;
+	font-family: Arial;
+	font-size:12px;
+}
+
+div {
+	width: 450px;
+	border: 0px;
+}
+
+table {
+	font-family: Arial;
+	font-size:12px;
+	text-align: center;
+	width: 400px;
+	border-style: double;
+	border-color: #2E2E2E;
+}
+
+iframe {
+	width: 400px;
+	border: 0px;
+}
+
+.button {
+	font-family: Arial;
+	font-size: 12px;
+	width: 150px;
+}
+
+.picture {
+	width: 200px;
+	height: 200px;
+}
+
+.buttonFile {
+	font-family: monospace;
+	font-size: 12px;
+	width: 300px;
+}
+
+.buttonSubmit {
+	font-family: arial;
+	font-size: 12px;
+	width: 380px;
+}
+
+.title{
+	font-family: arial;
+	color: #585858;
+	font-size: 30px;
+	text-shadow: 1px 1.5px 0px #424242;	
+}
